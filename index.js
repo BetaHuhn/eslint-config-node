@@ -119,16 +119,7 @@ module.exports = {
 		'getter-return': 2,
 		'template-curly-spacing': [ 2, 'always' ],
 		'arrow-parens': [ 2, 'always' ],
-		'jsx-quotes': [ 2, 'prefer-double' ],
 		'default-case-last': 2,
-		'grouped-accessor-pairs': [ 2, 'getBeforeSet' ],
-		'import/no-unresolved': 2,
-		'import/no-absolute-path': 2,
-		'import/no-self-import': 2,
-		'import/no-useless-path-segments': 2,
-		'import/export': 2,
-		'import/no-mutable-exports': 2,
-		'import/no-duplicates': 2,
-		'import/newline-after-import': 2
+		'grouped-accessor-pairs': [ 2, 'getBeforeSet' ]
 	}
 }
