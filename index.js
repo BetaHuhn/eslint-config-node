@@ -74,7 +74,7 @@ module.exports = {
 		'computed-property-spacing': 2,
 		'object-curly-spacing': [ 2, 'always' ],
 		'operator-linebreak': [ 2, 'after' ],
-		'func-style': 2,
+		'func-style': 0,
 		'new-cap': 2,
 		'no-var': 2,
 		'no-labels': 2,
